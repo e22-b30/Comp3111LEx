@@ -1,2 +1,2 @@
 This is the work for Lab 1
-<img src="C:\Users\fangyi\Desktop\readme.jpg" title="readme"/>
+![](C:\Users\fangyi\IdeaProjects\Comp3111LEx\target\classes\Lab1\readme)
